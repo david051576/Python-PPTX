@@ -5,9 +5,9 @@ This is a project which dedicates to help business man generate slide more effic
 
 ---------------------------------------------------------------------------------------------------
 
-In the version 1.0 (only the "Important quoto" pattern), if you enter a quoto, it will google this quoto and scratch one of the greatest fit on Google, and put it in your slide.
+In the version 1.0 (only the "Important quoto" pattern), if you enter a quoto, it will google this quoto and scratch one of the greatest fit picture on Google, and put it in your slide.
 
-However, you should turn the transparency in hand that you can see the background. (I cannot solve the transparency problem until now)
+However, you should turn the transparency in hand that you can see the background. (I cannot solve the transparency problem until now.)
 
 ---------------------------------------------------------------------------------------------------  
 In the version 2.0, feature will be like,
